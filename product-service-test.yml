@@ -12,4 +12,4 @@ spring:
 # 环境
 env: test
 # 分支
-branch: master
+branch: test
