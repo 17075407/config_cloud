@@ -9,3 +9,7 @@ eureka:
 spring:
   application:
     name: product-service
+# 环境
+env: default
+# 分支
+branch: master
